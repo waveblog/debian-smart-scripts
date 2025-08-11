@@ -40,7 +40,7 @@
 
     ```bash
     # 例如：
-    # wget https://your-repo-link/debian_unified_setup.sh
+    # wget https://raw.githubusercontent.com/waveblog/debian-smart-scripts/refs/heads/main/debian_unified_setup.sh
     # 或手动复制粘贴
     ```
 
